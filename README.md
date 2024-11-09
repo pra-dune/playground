@@ -1,3 +1,3 @@
 # playground
-Playground for my project
+Playground
 ## Git basic
